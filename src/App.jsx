@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h2>Tour Rest Countries</h2>
+      <h2 style={{ textAlign: 'center', color: 'orangered', fontSize: '50px' }}>Tour Rest Countries</h2>
       <Countries></Countries>
     </>
   )

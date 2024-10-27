@@ -1,13 +1,13 @@
-.country{
-    height: 550px;
-    border: 2px solid red;
-    margin: 10px;
+.country {
+    /* border: 2px solid red; */
     padding: 10px;
     border-radius: 15px;
 }
-.country-bg{
-    background-color:orangered;
+
+.country-bg {
+    background-color: blue;
 }
-.country-bgd{
-    background-color:crimson;
+
+.country-bgd {
+    background-color: orangered;
 }

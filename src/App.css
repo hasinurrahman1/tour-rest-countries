@@ -1,5 +1,7 @@
 #root {
-  max-width: 1280px;
+  max-width: 1427px;
+  /* border: 1px solid blue; */
+  background-color: black;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 5px;
 }
